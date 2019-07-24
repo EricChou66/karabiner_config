@@ -262,6 +262,14 @@
                   "left_command"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [ 
+                "com.googlecode.iterm2"
+              ]
+            }
           ]
         },
         {
@@ -279,6 +287,14 @@
               "key_code": "a",
               "modifiers":[
                   "left_command"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [ 
+                "com.googlecode.iterm2"
               ]
             }
           ]
@@ -300,6 +316,14 @@
                   "left_command"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [ 
+                "com.googlecode.iterm2"
+              ]
+            }
           ]
         },
         {
@@ -317,6 +341,14 @@
               "key_code": "v",
               "modifiers":[
                   "left_command"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [ 
+                "com.googlecode.iterm2"
               ]
             }
           ]
@@ -338,6 +370,14 @@
                   "left_control"
               ]
             }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [ 
+                "com.googlecode.iterm2"
+              ]
+            }
           ]
         },
         {
@@ -355,6 +395,14 @@
               "key_code": "v",
               "modifiers":[
                   "left_control"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [ 
+                "com.googlecode.iterm2"
               ]
             }
           ]
@@ -393,6 +441,14 @@
               "key_code": "z",
               "modifiers":[
                   "left_control"
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [ 
+                "com.googlecode.iterm2"
               ]
             }
           ]
